@@ -1,0 +1,2 @@
+class TestHomePageData:
+    TestDataHomePage = ["ber"]

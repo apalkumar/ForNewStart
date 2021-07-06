@@ -1,0 +1,32 @@
+
+2021-07-04 05:31:20,644 :INFO : test_e2e :Below are used for Logging
+2021-07-04 05:42:01,461 :INFO : test_e2e :Below are used for Logging
+2021-07-04 05:42:02,642 :INFO : count :Count Inside Method is-->3
+2021-07-04 05:42:02,642 :INFO : test_e2e :Count is ==>3
+2021-07-04 05:42:02,672 :INFO : proceed_checkout :WE are inside of the MEthod
+2021-07-04 09:58:47,288 :INFO : test_e2e :Below are used for Logging
+2021-07-04 09:58:48,455 :INFO : count :Count Inside Method is-->3
+2021-07-04 09:58:48,455 :INFO : test_e2e :Count is ==>3
+2021-07-04 09:58:48,478 :INFO : proceed_checkout :WE are inside of the MEthod
+2021-07-04 10:09:07,525 :INFO : test_e2e :Below are used for Logging
+2021-07-04 10:09:08,799 :INFO : count :Count Inside Method is-->3
+2021-07-04 10:09:08,799 :INFO : test_e2e :Count is ==>3
+2021-07-04 10:09:08,836 :INFO : proceed_checkout :WE are inside of the MEthod
+2021-07-04 10:16:54,416 :INFO : test_e2e :Below are used for Logging
+2021-07-04 10:16:55,715 :INFO : count :Count Inside Method is-->3
+2021-07-04 10:16:55,715 :INFO : test_e2e :Count is ==>3
+2021-07-04 10:16:55,747 :INFO : proceed_checkout :WE are inside of the MEthod
+2021-07-04 11:16:15,114 :INFO : test_e2e :Below are used for Logging
+2021-07-04 11:16:16,293 :INFO : count :Count Inside Method is-->3
+2021-07-04 11:16:16,293 :INFO : test_e2e :Count is ==>3
+2021-07-04 11:16:16,316 :INFO : proceed_checkout :WE are inside of the MEthod
+2021-07-04 11:19:41,628 :INFO : test_e2e :Below are used for Logging
+2021-07-04 11:19:42,803 :INFO : count :Count Inside Method is-->3
+2021-07-04 11:19:42,804 :INFO : test_e2e :Count is ==>3
+2021-07-04 11:24:47,325 :INFO : test_e2e :Below are used for Logging
+2021-07-04 11:24:48,489 :INFO : count :Count Inside Method is-->3
+2021-07-04 11:24:48,489 :INFO : test_e2e :Count is ==>3
+2021-07-04 11:25:56,126 :INFO : test_e2e :Below are used for Logging
+2021-07-04 11:25:57,300 :INFO : count :Count Inside Method is-->3
+2021-07-04 11:25:57,300 :INFO : test_e2e :Count is ==>3
+2021-07-04 11:25:57,325 :INFO : proceed_checkout :WE are inside of the MEthod
